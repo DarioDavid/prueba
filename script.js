@@ -1,4 +1,7 @@
 function suma(a, b, c){
+
+    let nom ="Darío";
+
     d = a + b + c;
     return d
 }
