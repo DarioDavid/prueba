@@ -1,7 +1,7 @@
 function suma(a, b, c){
 
     let nom ="Darío";
-    let nom2 =Ernesto";
+    let nom2 ="Ernesto";
 
     d = a + b + c;
     return d
